@@ -1,0 +1,100 @@
+{
+  "figure2": {
+    "panel_offset_pt": [
+      -29.00572,
+      7
+    ]
+  },
+  "figure3": {
+    "panel_offsets_pt": {
+      "a": [
+        -31.68417,
+        7
+      ],
+      "b": [
+        -29.34047,
+        7
+      ],
+      "d": [
+        -32.44266,
+        7
+      ]
+    },
+    "photo_label_offset_pt": [
+      -31.68417,
+      -8.08168
+    ],
+    "fit_dash_points": [
+      4.5,
+      3.0
+    ]
+  },
+  "figure4": {
+    "figsize_inches": [
+      8.8,
+      3.65
+    ],
+    "margins": {
+      "left": 0.075,
+      "right": 0.985,
+      "bottom": 0.22,
+      "top": 0.78,
+      "wspace": 0.55
+    },
+    "panel_offset_pt": [
+      -31.21696,
+      7
+    ],
+    "legend_group_center_x": 0.53,
+    "legend_gap_fraction": 0.025,
+    "legend_top_anchor_y": 0.9823008
+  },
+  "photographs": {
+    "figure3": [
+      {
+        "file": "data/photographs/fig3_01.png",
+        "time_s": 0.03333333333333333,
+        "frame": 1,
+        "sha256": "5e57f83fe5085efff4d99d406da785328e695f831e0360444b2d320cd42cf8a0"
+      },
+      {
+        "file": "data/photographs/fig3_02.png",
+        "time_s": 12.033333333333333,
+        "frame": 361,
+        "sha256": "b1fe24d61d78845e60e709449275076e3dd83f1b258bdbfd6eed2ab4aa0f97ff"
+      },
+      {
+        "file": "data/photographs/fig3_03.png",
+        "time_s": 24.033333333333335,
+        "frame": 721,
+        "sha256": "cf6071f0db561c1a09ee580d2de88a45d481d62db174c842ccb09f98279a6ee8"
+      },
+      {
+        "file": "data/photographs/fig3_04.png",
+        "time_s": 36.03333333333333,
+        "frame": 1081,
+        "sha256": "a40acadb798b0cf47294bcdbcefb0c723f9e7f86627d6fa1e688723b6cb095b1"
+      },
+      {
+        "file": "data/photographs/fig3_05.png",
+        "time_s": 54.03333333333333,
+        "frame": 1621,
+        "sha256": "14367ca7c07e5c8d61f84f9c56ff6a67fb142153df79215e372a81eed44dd707"
+      }
+    ],
+    "figure4": [
+      {
+        "file": "data/photographs/fig4_10s.png",
+        "time_s": 10,
+        "frame": 300,
+        "sha256": "4df2ce69c97bcee6f85c260101787cb9da2bed966cdf3e5047d35237239e0094"
+      },
+      {
+        "file": "data/photographs/fig4_15s.png",
+        "time_s": 15,
+        "frame": 450,
+        "sha256": "cef4610c362b8af59052909d650ebc9528379228c34d756da50c26b76074f00a"
+      }
+    ]
+  }
+}

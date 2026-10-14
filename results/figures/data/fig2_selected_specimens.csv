@@ -1,0 +1,12 @@
+panel,sheet_name,display_label,display_liquid,test_id,liquid,drying_time_h,specimen_width_mm,thickness_um,peel_speed_mm_per_min,plateau_start_mm_zeroed,plateau_end_mm_zeroed,planned_drying_time_h,peel_angle_deg,plateau_force_mean_n,gamma_J_m2,raw_point_count,plateau_point_count,source_raw,source_raw_sheet
+a,T017,3 h / 10 mm min$^{-1}$,Ethanol,17,ethanol,3,20,50,10,5.999333,19.999333,3,,0.0140129022557336,0.7006451127866818,8278,4194,data/peeling/peeling_data.xlsx,T017
+a,T016,6 h / 10 mm min$^{-1}$,Ethanol,16,ethanol,6,20,50,10,7.999333,24.999333,6,,0.0220235669779571,1.1011783488978577,11722,5092,data/peeling/peeling_data.xlsx,T016
+a,T007,9 h / 10 mm min$^{-1}$,Ethanol,7,ethanol,9,20,50,10,2.0,60.0,9,,0.021518642028127,1.0759321014063532,18482,17374,data/peeling/peeling_data.xlsx,T007
+b,T017,Ethanol / 3 h,Ethanol,17,ethanol,3,20,50,10,5.999333,19.999333,3,,0.0140129022557336,0.7006451127866818,8278,4194,data/peeling/peeling_data.xlsx,T017
+b,T022,IPA / 3 h,IPA,22,ipa,3,20,50,10,4.999667,15.999667,3,,0.0156152825362765,0.7807641268138277,4875,3295,data/peeling/peeling_data.xlsx,T022
+b,T028,Water / 3 h,Water,28,water,3,20,50,10,2.001333,15.001333,3,,0.0176175615793628,0.8808780789681441,4646,3894,data/peeling/peeling_data.xlsx,T028
+b,T035,Glycerol / 3 h,Glycerol,35,glycerol,3,20,50,10,0.000167,32.000167,3,,0.0013941293068178,0.0697064653408942,10129,9586,data/peeling/peeling_data.xlsx,T035
+c,T023,25 $\mu$m,IPA,23,ipa,3,20,25,10,4.999333,15.999333,3,,0.0198236507062665,0.9911825353133298,6660,3295,data/peeling/peeling_data.xlsx,T023
+c,T022,50 $\mu$m,IPA,22,ipa,3,20,50,10,4.999667,15.999667,3,,0.0156152825362765,0.7807641268138277,4875,3295,data/peeling/peeling_data.xlsx,T022
+c,T021,100 $\mu$m,IPA,21,ipa,3,20,100,10,1.0,35.0,3,,0.0204930233448866,1.0246511672443337,20978,10186,data/peeling/peeling_data.xlsx,T021
+c,T001,150 $\mu$m,IPA,1,ipa,3,20,150,10,2.0,42.0,3,,0.0196592375236846,0.9829618761842308,13761,11982,data/peeling/peeling_data.xlsx,T001

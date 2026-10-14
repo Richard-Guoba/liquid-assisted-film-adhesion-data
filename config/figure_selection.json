@@ -1,0 +1,27 @@
+{
+  "figure2": {
+    "ethanol_time_thickness_um": 50,
+    "liquid_series": [
+      "T017",
+      "T022",
+      "T028",
+      "T035"
+    ],
+    "ipa_thickness_series": [
+      "T023",
+      "T022",
+      "T021",
+      "T001"
+    ]
+  },
+  "figure3": {
+    "representative_force_id": "test_34",
+    "representative_radius_sample": "ipa_100um_9h",
+    "liquid": "ipa",
+    "conditioning_time_h": 9,
+    "repeat_id": 0
+  },
+  "figure4": {
+    "minimum_y_max": 2.4
+  }
+}

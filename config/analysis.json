@@ -1,0 +1,17 @@
+{
+  "poisson_ratio": 0.5,
+  "film_diameter_mm": 45.0,
+  "calibration_true_strain_start": 0.1,
+  "calibration_true_strain_end": 0.2,
+  "mass_initial_g": {
+    "Ethanol": 0.39,
+    "IPA": 0.39,
+    "Water": 0.5,
+    "Glycerol": 0.63
+  },
+  "qc": {
+    "force_min_r2": 0.95,
+    "peeling_max_cv": 0.3,
+    "peeling_max_relative_drift": 0.3
+  }
+}

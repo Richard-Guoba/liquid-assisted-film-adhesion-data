@@ -1,0 +1,324 @@
+{
+  "repository": "Richard-Guoba/liquid-assisted-film-adhesion-data",
+  "release_tag": "data-v1.0.0",
+  "videos": [
+    {
+      "name": "ethanol_100um_3h.mp4",
+      "size_bytes": 53361413,
+      "sha256": "fc024dad790ecc3a3d1a3a59f2c14d0f364951460a77800f551ae25fef83bb7f",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ethanol_100um_3h.mp4"
+    },
+    {
+      "name": "ethanol_100um_6h.mp4",
+      "size_bytes": 48838176,
+      "sha256": "07ca428c1698179a13d328a0f6eae458fea7ff9a5ae1eb99acadd2433de5800c",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ethanol_100um_6h.mp4"
+    },
+    {
+      "name": "ethanol_100um_9h.mp4",
+      "size_bytes": 36494368,
+      "sha256": "b661e7ec92899ec7da4ec7470f0ca9f26fef0e9475a5a8d3258bde0197a73ba0",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ethanol_100um_9h.mp4"
+    },
+    {
+      "name": "ethanol_100um_9h_1.mp4",
+      "size_bytes": 63339464,
+      "sha256": "ce344d4659c2b625ee6a5ba9a6fe4837f236f429890826b1a9b6a02f5558a367",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ethanol_100um_9h_1.mp4"
+    },
+    {
+      "name": "ethanol_150um_3h.mp4",
+      "size_bytes": 51581436,
+      "sha256": "5d1cb4bee77d42881ca68ad66b1f606437cbcfc044b5617ee32f5acdf0d322d0",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ethanol_150um_3h.mp4"
+    },
+    {
+      "name": "ethanol_150um_6h.mp4",
+      "size_bytes": 52345054,
+      "sha256": "5f5f6b7e5f813dcaea8630d0bcdeef0ef73eb1309f0604b5ec8bb90849a43eb5",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ethanol_150um_6h.mp4"
+    },
+    {
+      "name": "ethanol_150um_9h.mp4",
+      "size_bytes": 54514618,
+      "sha256": "25ff8b729830ccfe77f56eeddebdef857ab4231588606c3f9ce8bc89b02e4033",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ethanol_150um_9h.mp4"
+    },
+    {
+      "name": "ethanol_25um_3h.mp4",
+      "size_bytes": 34822049,
+      "sha256": "aa961c41310725e86eb89c0b553ecb4b7e7afe93163101440c28856d1b49be04",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ethanol_25um_3h.mp4"
+    },
+    {
+      "name": "ethanol_25um_6h.mp4",
+      "size_bytes": 51649250,
+      "sha256": "22bab580cce21ac5a41a79fe11512bd8b2debd95126dcde1521aab623910b644",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ethanol_25um_6h.mp4"
+    },
+    {
+      "name": "ethanol_25um_9h.mp4",
+      "size_bytes": 32520455,
+      "sha256": "966aea2dae4bc88e96c3dd05d09d80e6a60b32ed29586c1208eaf57df38ca010",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ethanol_25um_9h.mp4"
+    },
+    {
+      "name": "ethanol_25um_9h_1.mp4",
+      "size_bytes": 59760129,
+      "sha256": "9253350e85d841438d2e3bf9d13e5ab35fbfbd2d8db94534a4ec6b5b3e1e431e",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ethanol_25um_9h_1.mp4"
+    },
+    {
+      "name": "ethanol_50um_3h.mp4",
+      "size_bytes": 58334991,
+      "sha256": "5f629881c5b169376e34ee452b4e3fb54fcc344b3e89d575481b946c52f8588b",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ethanol_50um_3h.mp4"
+    },
+    {
+      "name": "ethanol_50um_6h.mp4",
+      "size_bytes": 19166161,
+      "sha256": "7bd385fafd0aa98a4d836cb879254f49dcd9dfd34d0463f2408a851dadb4dec9",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ethanol_50um_6h.mp4"
+    },
+    {
+      "name": "ethanol_50um_9h.mp4",
+      "size_bytes": 24207353,
+      "sha256": "289b1281ebdd0d87fc2ab7d7b57935ddd85e255ded935fb55815c6dd5b86e7f8",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ethanol_50um_9h.mp4"
+    },
+    {
+      "name": "ipa_100um_3h.mp4",
+      "size_bytes": 50381181,
+      "sha256": "528253da952aa98ef9829186186468fac915a03d8d976f7d14f4baf0656fad02",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ipa_100um_3h.mp4"
+    },
+    {
+      "name": "ipa_100um_6h.mp4",
+      "size_bytes": 39927783,
+      "sha256": "5e1d89a8c5f260e8c5704e569ca9856728944bbaa4aa34dcba8ed8efc150de6e",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ipa_100um_6h.mp4"
+    },
+    {
+      "name": "ipa_100um_9h.mp4",
+      "size_bytes": 53092136,
+      "sha256": "96b0902d4d2e5889e781370a7e5a5b6fab2ee558b5e4fcb7d938f4884b5502ee",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ipa_100um_9h.mp4"
+    },
+    {
+      "name": "ipa_100um_9h_1.mp4",
+      "size_bytes": 56425800,
+      "sha256": "584673c60740e76f3f51dae90a371359ab5db327dab119542f75317cb0678140",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ipa_100um_9h_1.mp4"
+    },
+    {
+      "name": "ipa_150um_3h.mp4",
+      "size_bytes": 41011296,
+      "sha256": "ddc1f1cd1fe35cb5d777d5e26c5c8ebfffcb2bed76f16b97de4510c28f7f23e0",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ipa_150um_3h.mp4"
+    },
+    {
+      "name": "ipa_150um_6h.mp4",
+      "size_bytes": 48784166,
+      "sha256": "fceb15ed60f122fc9d01fff3ac3efa6c4a67ff3a669e643eed6bcac1040253e0",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ipa_150um_6h.mp4"
+    },
+    {
+      "name": "ipa_150um_9h.mp4",
+      "size_bytes": 40694695,
+      "sha256": "f0f47d050094bee803dbb726ab02d9abe2b3e6608de601263e87be0996eca68b",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ipa_150um_9h.mp4"
+    },
+    {
+      "name": "ipa_25um_3h.mp4",
+      "size_bytes": 52114401,
+      "sha256": "93114ab65e97b9889cf541d4ae6b68c716a736f92a0cb285cd5bb698ac5d08c8",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ipa_25um_3h.mp4"
+    },
+    {
+      "name": "ipa_25um_6h.mp4",
+      "size_bytes": 20082757,
+      "sha256": "ed40390aa90561108b108245be442dce97a5caa624bdefd2496e7900bd2f65bc",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ipa_25um_6h.mp4"
+    },
+    {
+      "name": "ipa_25um_9h.mp4",
+      "size_bytes": 18062956,
+      "sha256": "0f2562b7a6043276869785fde4e7965a2766681058ce50259d2d2c5e3cd841d8",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ipa_25um_9h.mp4"
+    },
+    {
+      "name": "ipa_50um_3h.mp4",
+      "size_bytes": 50334941,
+      "sha256": "e40d8abe3aec777b4242fb93595f358b8c8609e60413c3d6fb3a718624ad3b2a",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ipa_50um_3h.mp4"
+    },
+    {
+      "name": "ipa_50um_6h.mp4",
+      "size_bytes": 32026278,
+      "sha256": "5e2ff9d9f3a554efd1387cfd137bd2c48835ad66904ea6003ba93510c738ea71",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ipa_50um_6h.mp4"
+    },
+    {
+      "name": "ipa_50um_9h.mp4",
+      "size_bytes": 29483782,
+      "sha256": "f41ecc4afecd11a4dd4cc63a96f69578f59d6008c03888eeccaeaf28ba41e612",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/ipa_50um_9h.mp4"
+    },
+    {
+      "name": "oil_100um_9h.mp4",
+      "size_bytes": 58291142,
+      "sha256": "38338e5a86e08d273aec65d2914488a1a68dd19116c218320ff4286252031d6c",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/oil_100um_9h.mp4"
+    },
+    {
+      "name": "oil_100um_9h_1.mp4",
+      "size_bytes": 56687617,
+      "sha256": "a38a836bd516cd9b91d911cb3532660e653e5468ea5ff5c68a5ed2c8c87ac7ee",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/oil_100um_9h_1.mp4"
+    },
+    {
+      "name": "oil_100um_9h_2.mp4",
+      "size_bytes": 62983004,
+      "sha256": "f0dabf124910fab2069922810ee03c4ced75f21253fbf17c4780693a14b9b1c9",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/oil_100um_9h_2.mp4"
+    },
+    {
+      "name": "oil_100um_9h_3.mp4",
+      "size_bytes": 45452042,
+      "sha256": "183b3da2760069397c638bd7abc14454b67749ba221ff629a224f6eb93b8b2e7",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/oil_100um_9h_3.mp4"
+    },
+    {
+      "name": "oil_150u_9h.mp4",
+      "size_bytes": 68565163,
+      "sha256": "ef24151abbd61ad2decb76770662f9368a32c11c9755329ffb38786babf5970f",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/oil_150u_9h.mp4"
+    },
+    {
+      "name": "oil_150um_3h.mp4",
+      "size_bytes": 61347410,
+      "sha256": "a0bd88e8f9bad7db7ac56f100ace09316f453c7112e3a92a88190e57e3056e4b",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/oil_150um_3h.mp4"
+    },
+    {
+      "name": "oil_150um_6h.mp4",
+      "size_bytes": 72531589,
+      "sha256": "6d34ec5ec1d01aeed902398e79ddf2d0847fd67ee6752cac6a0803284356ab4d",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/oil_150um_6h.mp4"
+    },
+    {
+      "name": "oil_25um_6h.mp4",
+      "size_bytes": 62983292,
+      "sha256": "eb0bfcd6b3df32b903f40b3f3e66f623cbc1efe861cf574fdf12c2cf6cf04075",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/oil_25um_6h.mp4"
+    },
+    {
+      "name": "oil_50um_9h.mp4",
+      "size_bytes": 45954874,
+      "sha256": "174ddbd2893e6e16a648fdee9d9856969a0e46a9fae6f3a0603e535c2325b981",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/oil_50um_9h.mp4"
+    },
+    {
+      "name": "water_100um_3h.mp4",
+      "size_bytes": 57249594,
+      "sha256": "50f2cbda57a5365f43e7c6b423aaa7d7134172a6d51d11e62e72982d50a89044",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_100um_3h.mp4"
+    },
+    {
+      "name": "water_100um_3h_1.mp4",
+      "size_bytes": 70250106,
+      "sha256": "2870edf3537e0bd350f686ed87f3489bb289b2d671343db325b7bdf238c0ea48",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_100um_3h_1.mp4"
+    },
+    {
+      "name": "water_100um_6h.mp4",
+      "size_bytes": 59836279,
+      "sha256": "6a7e6fffe34241741d4ae2ff08c610b25f120ab1ca03b4174eefe54c0576c4ff",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_100um_6h.mp4"
+    },
+    {
+      "name": "water_100um_6h_1.mp4",
+      "size_bytes": 56407583,
+      "sha256": "ff941bb0f0cd64b532e805ea6e2fe0e12dbffa3bb63d057d4de0354e62dce574",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_100um_6h_1.mp4"
+    },
+    {
+      "name": "water_100um_9h.mp4",
+      "size_bytes": 55696013,
+      "sha256": "10f367230c08fe8287be2392ac30c7b713d0dc74e97e44d7a686f611dc5d065b",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_100um_9h.mp4"
+    },
+    {
+      "name": "water_100um_9h_1.mp4",
+      "size_bytes": 52727819,
+      "sha256": "4e19273fd11e1dee0626e4fb7366e79c1bac5af67a259d025b968c6f3f7c6560",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_100um_9h_1.mp4"
+    },
+    {
+      "name": "water_150um_3h.mp4",
+      "size_bytes": 70113246,
+      "sha256": "57911c7b65ef60032152c38ef1bbec8498ec757a21465096c5cd3578e0390dea",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_150um_3h.mp4"
+    },
+    {
+      "name": "water_150um_6h.mp4",
+      "size_bytes": 58693180,
+      "sha256": "998582762fc639ebe57c84c03772566d46cf8d5a7cf9bfd6ae23aae8ba5810ae",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_150um_6h.mp4"
+    },
+    {
+      "name": "water_150um_6h_1.mp4",
+      "size_bytes": 49483900,
+      "sha256": "2df59fdf1114509bda6e9be8c93371263d713fdf27cdf31258f9e91bee24b112",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_150um_6h_1.mp4"
+    },
+    {
+      "name": "water_150um_9h.mp4",
+      "size_bytes": 47467035,
+      "sha256": "425eb06e3b2a20c1694ffa62ec496d5e87df936dd96b2579ee0e79c2f2bcaedc",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_150um_9h.mp4"
+    },
+    {
+      "name": "water_25um_3h.mp4",
+      "size_bytes": 41737873,
+      "sha256": "da4c13cfeaa0b5b5111d2b0699152ac97976bc2ddeb002832fe927f8187d42e5",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_25um_3h.mp4"
+    },
+    {
+      "name": "water_25um_6h.mp4",
+      "size_bytes": 37591658,
+      "sha256": "ee14c7f6b8d56e73fa2b9546aec389be5c55bcb20fb2e8b39981e2df84e18162",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_25um_6h.mp4"
+    },
+    {
+      "name": "water_25um_6h_1.mp4",
+      "size_bytes": 64507730,
+      "sha256": "35ce078241ff68ab3028e540f1474a492eef60c199ec8ccaee1c9b7b78d7d396",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_25um_6h_1.mp4"
+    },
+    {
+      "name": "water_25um_9h.mp4",
+      "size_bytes": 42851106,
+      "sha256": "f2efc011e8e080bae4e00de64c3ab70fb2a840db2983a39a1d309a95eea161f0",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_25um_9h.mp4"
+    },
+    {
+      "name": "water_50um_3h.mp4",
+      "size_bytes": 74578122,
+      "sha256": "dd75b1a74d0efc4593df5be031535004cb6f1093d0a701ac37276931a040b0d8",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_50um_3h.mp4"
+    },
+    {
+      "name": "water_50um_6h.mp4",
+      "size_bytes": 55667930,
+      "sha256": "3e3fc33cc5664cb9ce3d9ba0f4fe853ab12bae3df0ca820d1447eeddabdbab01",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_50um_6h.mp4"
+    },
+    {
+      "name": "water_50um_9h.mp4",
+      "size_bytes": 52709517,
+      "sha256": "b89fbb7a356f6f02462235be50fd4d45c06b89be569b23b6b13b0f51b7a58788",
+      "download_url": "https://github.com/Richard-Guoba/liquid-assisted-film-adhesion-data/releases/download/data-v1.0.0/water_50um_9h.mp4"
+    }
+  ]
+}

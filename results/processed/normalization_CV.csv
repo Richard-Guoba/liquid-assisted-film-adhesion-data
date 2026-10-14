@@ -1,0 +1,7 @@
+scope,liquid,time_h,n_records,n_thickness_cells,raw_CV,normalized_CV
+all_measured_force_curves,ethanol,3,4,4,0.41562580966411766,0.092319002613478626
+all_measured_force_curves,ethanol,6,4,4,0.46009833653452403,0.10114379986046673
+all_measured_force_curves,ethanol,9,6,4,0.40611381790702372,0.13807751866699919
+all_measured_force_curves,ipa,3,5,4,0.41908131042177471,0.066291457838005746
+all_measured_force_curves,ipa,6,5,4,0.38806766181545088,0.046693556339142399
+all_measured_force_curves,ipa,9,5,4,0.43177566353201019,0.040863660726286728
